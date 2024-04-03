@@ -6,8 +6,8 @@ int main() {
   
   greet();
   
-  std::string codeword = "codecadmey";
-  std::string answer = "__________";
+  std::string codeword = "BlahBlah";
+  std::string answer = "________";
 
   int misses = 0;
 
